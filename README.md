@@ -25,7 +25,6 @@ Este é um projeto de **landing page da Nike**, criado com foco em design modern
 ## 🎯 Objetivos do Projeto
 
 - Criar uma página de produto com visual impactante  
-- Praticar **CSS Grid/Flexbox** e responsividade  
 - Aprimorar o uso de **JavaScript** para interações simples  
 - Simular um projeto real de **landing page comercial**
 
