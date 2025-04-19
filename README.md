@@ -9,7 +9,7 @@ Este é um projeto de **landing page da Nike**, criado com foco em design modern
 
 ## 📸 Preview
 
-![Nike Landing Page Preview](https://cdn.discordapp.com/attachments/1329249192786526371/1361174039221239960/1.png?ex=67fdcb9c&is=67fc7a1c&hm=b5df9d03de50e4cf82ccb7f2893d0ff3ad28c9fbd26391b0d1f5f9711b99f47d&)  
+![Nike Landing Page Preview](https://media.discordapp.net/attachments/1329249192786526371/1361174039221239960/1.png?ex=6803ba5c&is=680268dc&hm=432bb5371d032a0638d4909982a6a2c33f4dc1546d7c370ef8a96f55220e00e8&=&format=webp&quality=lossless&width=1535&height=863)  
 
 
 ---
